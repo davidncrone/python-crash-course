@@ -16,8 +16,7 @@ name = "  \t  David   \n  "
 print(name)
 print(name.lstrip())  # Removes leading white space and tab character
 print(name.rstrip())  # Removes trailing white space and new line character
-# Removes leading and trailing white space and both escaped characters
-print(name.strip())
+print(name.strip())  # Removes and escaped characters
 
 
 # From exercise 2-8 |
