@@ -7,6 +7,7 @@
 # date at the top of each program file. Then write one sentence describing what the program does
 
 
+# __________________
 # From exercise 2-7 |
 # __________________|
 # Program prints name with different variations of white space removal
@@ -19,6 +20,7 @@ print(name.rstrip())  # Removes trailing white space and new line character
 print(name.strip())  # Removes and escaped characters
 
 
+# __________________
 # From exercise 2-8 |
 # __________________|
 # Program prints the evaluation of various expressions
