@@ -9,9 +9,6 @@
 # When you run your program again, these new words and meanings should
 # automatically be included in the output.
 
-
-# add five more Python terms
-
 glossary = {
     'PEP 8': 'Collect of approved python styling guide for best practice',
     'import this': 'Fun easter egg with words of wisdom',
